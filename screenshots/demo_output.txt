@@ -1,1 +1,11 @@
+AI Insider Threat Detection Report
 
+User: contractor1
+Location: Unknown
+
+Risk Indicators:
+✓ Multiple failed login attempts
+✓ Excessive file access
+✓ Privilege escalation detected
+
+Threat Level: HIGH RISK

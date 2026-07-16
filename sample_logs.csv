@@ -1,1 +1,6 @@
-
+user,failed_attempts,files_accessed,privilege_change,location
+admin_user,1,10,0,India
+employee1,2,15,0,India
+contractor1,8,120,1,Unknown
+admin2,7,90,1,Russia
+employee2,0,5,0,India
